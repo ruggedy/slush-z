@@ -1,4 +1,4 @@
-# Slush Angular2-component [![Build Status](https://secure.travis-ci.org/ruggedy/slush-angular2-component.png?branch=master)](https://travis-ci.org/ruggedy/slush-angular2-component) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-angular2-component.png)](http://badges.enytc.com/for/npm/slush-angular2-component)
+# Slush Z [![Build Status](https://secure.travis-ci.org/ruggedy/slush-z.png?branch=master)](https://travis-ci.org/ruggedy/slush-z) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-z.png)](http://badges.enytc.com/for/npm/slush-z)
 
 > This is a scaffolding tool created for use with mgechev's angular2-seed
 
