@@ -12,7 +12,7 @@ $ npm install -g slush-z
 ```
 
 ### Usage
-
+```bash
 # generate a new route component
 $ slush z
 
