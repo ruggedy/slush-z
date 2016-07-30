@@ -1,0 +1,1 @@
+export * from './<%=appNameDasherize%>.component';
